@@ -1,0 +1,31 @@
+# Compiled executables
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.so
+
+# Debug files
+*.dSYM/
+
+# Editor files
+.vscode/
+.idea/
+
+# Vim swap files
+*.swp
+
+# Temporary files
+*~
+
+# Build directories
+build/
+bin/
+
+#text documents
+*.txt
